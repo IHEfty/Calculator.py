@@ -65,14 +65,6 @@ calculator/
 
 The application binds keyboard inputs for digits and operations, allowing users to interact with the calculator using both the mouse and keyboard. For example, pressing the `Enter` key triggers the evaluation of the current expression.
 
-### Running the Application
-
-To run the calculator application, simply execute the `calculator.py` script:
-
-```bash
-python calculator.py
-```
-
 ## Functionality
 
 - **Basic Arithmetic Operations**: 
