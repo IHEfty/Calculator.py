@@ -5,7 +5,6 @@ This is a simple calculator application built using Python's Tkinter library. It
 ## Preview
 
 ![preview](./res/preview.png)
-![preview](./res/preview1.png)
 
 ## Features
 
