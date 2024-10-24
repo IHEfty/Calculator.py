@@ -2,14 +2,14 @@ import tkinter as tk
 from configparser import ConfigParser
 
 def load_theme(theme_name):
-    confiser = ConfigParser()
-    confiser.read('theme.ini')
+    wooh = ConfigParser()
+    wooh.read('theme.ini')
 
-    if theme_name not in confiser:
+    if theme_name not in wooh:
         print(f"Theme '{theme_name}' not found. Loading default 'Classic' theme.")
         theme_name = 'Classic'  
 
-    theme = confiser[theme_name]
+    theme = wooh[theme_name]
 
     return {
         "OFF_WHITE": theme.get("OFF_WHITE", "#F8FAFF"),
