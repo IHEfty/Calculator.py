@@ -105,4 +105,3 @@ BUTTON_BACKGROUND = #FFFFFF
 
 This calculator project serves as a practical application for learning GUI programming with Tkinter. Users are encouraged to modify the code and experiment with new features to enhance their understanding of Python and software development.
 
-Feel free to reach out if you have any questions or suggestions!
