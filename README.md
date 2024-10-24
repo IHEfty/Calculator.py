@@ -79,6 +79,12 @@ BUTTON_BACKGROUND = #FFFFFF
 EQUALS_BACKGROUND = #1E1E1E
 ```
 
+## Resources
+
+For more information and details, please click [here](./res/README.md).
+
+---
+
 ## Note to CST CSE Students
 
 This project is specially designed for CST CSE students who might be new to programming and GUI development. While you are welcome to use this code as a reference, remember that copying it and presenting it as your own work will not truly benefit your learning process. 
