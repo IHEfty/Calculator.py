@@ -6,7 +6,6 @@
 - [How It Works](#how-it-works)
 - [Functionality](#functionality)
 - [Customization](#customization)
-- [Running the Application](#running-the-application)
 
 ## Overview
 
