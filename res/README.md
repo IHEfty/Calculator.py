@@ -6,6 +6,7 @@
 - [How It Works](#how-it-works)
 - [Functionality](#functionality)
 - [Customization](#customization)
+- [Conclusion](#Conclusion)
 
 ## Overview
 
