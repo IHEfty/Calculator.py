@@ -79,7 +79,7 @@ BUTTON_BACKGROUND = #FFFFFF
 EQUALS_BACKGROUND = #1E1E1E
 ```
 
-## Resources
+## More
 
 For more information and details, please click [here](./res/README.md).
 
