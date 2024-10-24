@@ -22,7 +22,7 @@ To run this project, ensure you have the following installed:
 ## File Structure
 
 ```
-calculator/
+Calculator.py/
 ├── calculator.py         # Main script for the calculator application
 └── theme.ini             # Configuration file for themes
 ```
