@@ -2,6 +2,11 @@
 
 This is a simple calculator application built using Python's Tkinter library. It supports basic arithmetic operations and provides a user-friendly graphical interface.
 
+## Preview
+
+![preview](./res/preview.png)
+![preview](./res/preview1.png)
+
 ## Features
 
 - Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
