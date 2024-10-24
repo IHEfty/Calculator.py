@@ -26,7 +26,6 @@ This is a simple calculator application built using Python's Tkinter library. It
    ```bash
    git clone https://github.com/IHEfty/Calculator.py.git
    ```
-   Replace `your_username` with your actual GitHub username.
 
 2. **Navigate to the project directory:**
    ```bash
