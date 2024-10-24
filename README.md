@@ -29,7 +29,7 @@ This is a simple calculator application built using Python's Tkinter library. It
 
 2. **Navigate to the project directory:**
    ```bash
-   cd calculator
+   cd Calculator.py
    ```
 
 3. **Install Tkinter (if not already installed):**
