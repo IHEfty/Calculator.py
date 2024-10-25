@@ -85,6 +85,8 @@ BUTTON_TEXT_COLOR = #1E1E1E
 BUTTON_BACKGROUND = #FFFFFF
 EQUALS_BACKGROUND = #1E1E1E
 ```
+For more information and details, please click [here](https://github.com/IHEfty/Calculator.py/blob/main/res/README.md).
+
 ---
 ## `calc.py`
 
